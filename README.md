@@ -1,4 +1,4 @@
-Deployment link to the wbaite: https://payal-beura.github.io/Buzzboost/
+Deployment link to the wbsite: https://payal-beura.github.io/Buzzboost/
 
 
 
